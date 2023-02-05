@@ -212,6 +212,9 @@ footer .btn{
 
 
 @media (max-width: 600px){
+	footer input{
+	width: 150px
+}
 	.sec4{
 		flex-direction: column-reverse;
 		padding: 50px 0;
