@@ -173,6 +173,7 @@ nav .btn:hover{
 	margin-top: 150px;
 	background-image: url(bg-footer-top-desktop.svg);
 	height: 150px;
+	display: flex;
 }
 footer{
 	background-color: hsl(192, 100%, 9%);
@@ -262,6 +263,6 @@ footer .btn{
 }
 footer .btn{
 	margin-top: 20px;
-	
+
 }
 }
